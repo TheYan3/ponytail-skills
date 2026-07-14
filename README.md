@@ -78,8 +78,8 @@ check behind — lazy code without its check is unfinished.
 **Option A: Claude Code plugin (recommended)**
 
 ```
-/plugin marketplace add TheYan3/ponytail
-/plugin install ponytail@ponytail
+/plugin marketplace add TheYan3/ponytail-skills
+/plugin install ponytail@ponytail-skills
 ```
 
 Then trigger with `/ponytail` (or `lazy mode`, `yagni`, or just complain about
@@ -88,7 +88,7 @@ bloat) and `/ponytail-review` (or ask *"what can we delete?"*).
 **Option B: CLAUDE.md snippet (no plugin, always on)**
 
 ```bash
-curl https://raw.githubusercontent.com/TheYan3/ponytail/main/CLAUDE.md >> CLAUDE.md
+curl https://raw.githubusercontent.com/TheYan3/ponytail-skills/main/CLAUDE.md >> CLAUDE.md
 ```
 
 This is the lightweight always-on version of the same philosophy; the skills are
