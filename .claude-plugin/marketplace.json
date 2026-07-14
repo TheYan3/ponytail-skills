@@ -1,0 +1,30 @@
+{
+  "name": "ponytail",
+  "id": "ponytail",
+  "owner": {
+    "name": "Yannic Jundt"
+  },
+  "metadata": {
+    "description": "Anti-over-engineering skills for Claude Code: build the laziest solution that actually works, and review diffs for what to delete.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ponytail",
+      "source": "./",
+      "description": "Two skills: /ponytail forces the laziest solution that actually works (YAGNI ladder, three intensity levels); /ponytail-review reviews diffs only for over-engineering, one line per finding.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Yannic Jundt"
+      },
+      "keywords": [
+        "yagni",
+        "simplicity",
+        "over-engineering",
+        "lean",
+        "code-review"
+      ],
+      "category": "workflow"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ponytail",
+  "description": "Forces the laziest solution that actually works: YAGNI, stdlib before custom code, platform before dependencies, one line before fifty. Includes a review mode that only hunts over-engineering.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Yannic Jundt"
+  },
+  "license": "MIT",
+  "keywords": ["yagni", "simplicity", "over-engineering", "lean", "code-review"],
+  "skills": ["./skills/ponytail", "./skills/ponytail-review"]
+}
