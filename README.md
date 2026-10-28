@@ -1,3 +1,5 @@
+> **Archived.** This was an early repackaging of [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) and is no longer maintained. Use the original, which has since moved to v5.
+
 # Ponytail 🐴
 
 **Your coding agent writes 1,000 lines where 100 would do. Ponytail makes it stop.**
